@@ -1,0 +1,19 @@
+<html>
+
+<head>
+<title>Farasat Bokhari - Home Page</title>
+</head>
+
+<frameset frameborder="0" framespaceing="0" border="0" NOSCROLL cols="275,*">
+  <frame src="pages/main_menu.html" name="west">
+  <frame src="pages/main.html" name="main">
+</frameset>
+
+
+<body>
+
+
+
+</body>
+
+</html>
