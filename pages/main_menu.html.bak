@@ -22,13 +22,10 @@ University of East Anglia <br>
 Off: +44 (160) 359-7534<br>
 
 email: <a href="mailto:f.bokhari@uea.ac.uk"> f.bokhari@uea.ac.uk<br>
-</a><br>
+</a>
 
-
-<p align="center">
-  <img src="../images/logoblue.svg" alt="x">
-</p>
-
+ <img src="../images/logoblue.svg" alt="xxx" width="15" height="15">@farasatbokhari
+<br><br>
 
 <li><a href="main.html" target="main">General Background <br>
   </a></li>
@@ -36,6 +33,8 @@ email: <a href="mailto:f.bokhari@uea.ac.uk"> f.bokhari@uea.ac.uk<br>
 <li><a href="cv_bokhari.pdf" target="main">Resume (pdf) </a></li>
 
 <li><a href="../papers/papers_menu.html" target="main">Papers </a></li>
+
+<li><a href="../teaching/lecnotes_menu.html" target="main">Papers </a></li>
 
 <li><a href="blogs.html" target="main">Blogs</a></li>
 <li><a target="_blank" href="https://scholar.google.co.uk/citations?user=CCB0_F0AAAAJ&amp;hl=en">Google Scholar</a><br>
