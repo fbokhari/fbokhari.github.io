@@ -1,6 +1,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JV5XCN591D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-JV5XCN591D');
+</script>
 
   <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"><title>Farasat Bokhari (Main Menu)</title>
 
@@ -11,17 +19,16 @@
 <img style="width: 211px; height: 282px;" src="../images/Farasat.jpg" alt=""><br>
 Farasat A.S Bokhari&nbsp;</h2>
 
-Associate Professor<br>
+Professor, Economics Group, Loughborough Business School <br>
 
-School of Economics<br>
+Loughborough University <br>
 
-Centre for Competition Policy <br>
+Affiliate Centre for Competition Policy (UEA) <br>
 
-University of East Anglia <br>
+<br>
 
-Off: +44 (160) 359-7534<br>
 
-email: <a href="mailto:f.bokhari@uea.ac.uk"> f.bokhari@uea.ac.uk<br>
+email: <a href="mailto:f.bokhari@lboro.ac.uk"> f.bokhari@lboro.ac.uk<br>
 </a>
 
  <img src="../images/logoblue.svg" alt="xxx" width="15" height="15">@farasatbokhari
@@ -32,9 +39,9 @@ email: <a href="mailto:f.bokhari@uea.ac.uk"> f.bokhari@uea.ac.uk<br>
 
 <li><a href="cv_bokhari.pdf" target="main">Resume (pdf) </a></li>
 
-<li><a href="../papers/papers_menu.html" target="main">Papers </a></li>
+<li><a href="../papers/papers_menu.html" target="main">Research </a></li>
 
-<li><a href="../teaching/lecnotes_menu.html" target="main">Papers </a></li>
+<li><a href="../teaching/lecnotes_menu.html" target="main">Teaching </a></li>
 
 <li><a href="blogs.html" target="main">Blogs</a></li>
 <li><a target="_blank" href="https://scholar.google.co.uk/citations?user=CCB0_F0AAAAJ&amp;hl=en">Google Scholar</a><br>
